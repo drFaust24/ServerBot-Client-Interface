@@ -1,0 +1,5 @@
+Config file download success<br>
+<br>Config folder opening...<br>Use any available text editor for file configuration<br><b>Check out: the .ENV is an extension<br></b><br>
+Stat file updated <br>
+Config file upload success<br>
+Start Bot<br>
